@@ -10,7 +10,7 @@
 </div>
 ```
 
-This is the Machine Learning course web page for **US CMS PURSUE workshop 2026**. These particular notes are built upon the **Machine Learning** course web page for the *US CMS PURSUE workshop 2025*, available here:  [ML PURSUE 2025 course page](https://chattopadhyaya.github.io/ml_pursue2025) and *A minicourse in Machine Learning for Physicist* jupyter book, available here [ML for Physicists](https://chattopadhyaya.github.io/ml_for_physics/). Given our modern day use of all things electronic, *you can run, you can hide but you cannot escape ML*. From smart phones to smart toothpastes, ML is everywhere. The aim of these development is to help physicists to wrap their head around all things ML.
+This is the Machine Learning course web page for **US CMS PURSUE workshop 2026**. These particular notes are built upon the **Machine Learning** course web page for the [US CMS PURSUE workshop 2025](https://chattopadhyaya.github.io/ml_pursue2025) and [A minicourse in Machine Learning for Physicist](https://chattopadhyaya.github.io/ml_for_physics/). Given our modern day use of all things electronic, *you can run, you can hide but you cannot escape ML*. From smart phones to smart toothpastes, ML is everywhere. The aim of these development is to help physicists to wrap their head around all things ML.
 
 
 In this course, "*we're here for a good time, not a long time*" so let's first learn what this course in **NOT** for
