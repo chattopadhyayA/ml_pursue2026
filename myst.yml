@@ -1,0 +1,29 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 4c4a2311-950c-4fbc-99f0-dc615f634036
+  title: A minicourse in ML for PURSUE 2026
+  description: A collection of tools for introducing ML to Physicists
+  keywords: 
+  - Decision-Tree
+  - Neural-Netowork
+  - Physics and ML
+  authors: Arghya Chattopadhyay
+  # github:
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+  - file: content/00_overview
+  - file: content/01_stat
+  - file: content/02_MLintro
+  - file: content/03_decision
+  - file: content/04_svm
+  - file: content/05_gradient_descent
+  - file: content/06_NN_basic
+  - file: content/07_findingPI
+  - file: content/08_CNN
+  - file: content/09_further
+  - file: content/10_MLforHEP
+site:
+  template: book-theme
+  options:
+  logo: StringE.png
