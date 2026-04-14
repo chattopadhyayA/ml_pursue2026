@@ -1,4 +1,4 @@
-# A minicourse in Machine Learning for Physicist
+# Machine Learning for PURSUE 2026
 ## Overview
 
 ```{figure} ../StringE.png
@@ -10,7 +10,7 @@
 </div>
 ```
 
-This course page can also be thought of as my notes on basics of Machine Learning. These particular notes are built upon the **Machine Learning** course web page for the US CMS PURSUE workshop 2025, available here:  [ML PURSUE 2025 course page](https://chattopadhyaya.github.io/ml_pursue2025). Given our modern day use of all things electronic, *you can run, you can hide but you cannot escape ML*. From smart phones to smart toothpastes, ML is everywhere. The aim of these development is to help physicists to wrap their head around all things ML.
+This is the Machine Learning course web page for **US CMS PURSUE workshop 2026**. These particular notes are built upon the **Machine Learning** course web page for the *US CMS PURSUE workshop 2025*, available here:  [ML PURSUE 2025 course page](https://chattopadhyaya.github.io/ml_pursue2025) and *A minicourse in Machine Learning for Physicist* jupyter book, available here [ML for Physicists](https://chattopadhyaya.github.io/ml_for_physics/). Given our modern day use of all things electronic, *you can run, you can hide but you cannot escape ML*. From smart phones to smart toothpastes, ML is everywhere. The aim of these development is to help physicists to wrap their head around all things ML.
 
 
 In this course, "*we're here for a good time, not a long time*" so let's first learn what this course in **NOT** for
@@ -106,11 +106,7 @@ before running the notebook again.
 ```{note}
 With all these, we are now ready to proceed.
 
-If you find this Jupyter Book helpful for your project, thesis, or article, you are welcome to cite this resource:
-
-https://chattopadhyaya.github.io/ml_for_physics
-
-I would also greatly appreciate your feedback. You can find my contact details on my homepage:
+I will be happy to have your feedback or correction requests anytime during or after the workshop. You can find my contact details on my homepage:
 
 https://chattopadhyaya.github.io
 ```
