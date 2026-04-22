@@ -95,9 +95,12 @@ align:  center
 ---
 #### Rules for this minicourse
 
-- Each of the following chapter will have a [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://youtu.be/5LB_y-nudGU?si=MYDYvubUH8qLpm89) button. Clikcing on the button will open up the Jupyter Notebook in Google Collab, where you can modify and run the files as you wish. Remember that the only way to learn is to start first.
+- Each of the following chapter will have a [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://youtu.be/4nJFuMJ8gII?si=_OJWu5jnikatHSbM) button. Clikcing on the button will open up the Jupyter Notebook in Google Collab, where you can modify and run the files as you wish. Remember that the only way to learn is to start first.
 
 - There are questions in the jupyter lab notebooks, where the answers are hidden. But a single click would unveil the answers. The minicourse will work on an *honour-system*, you are not allowed to open the answers before you are told to do so. 
+
+- For convenience, some of the code blocks are **interactive**. Since this website is a static page, a few of those interactive elements may *look sleepy* here and may not fully *wake up* on their own. But the moment you open the notebook in Google Colab or on your local machine and give it the magical boost of a live `Python` kernel, they will spring into action.
+
 
 - If some of the code cells do not run in Google Colab, check the warning or error message for missing packages and install them in a new cell using  
   `!pip install <missing-package-name>`  
