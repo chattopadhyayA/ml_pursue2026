@@ -106,6 +106,9 @@ align:  center
   `!pip install <missing-package-name>`  
 before running the notebook again.
 
+
+- There are some errors intensionally made in the code, in case you find it, fix the bug on your own.
+
 ```{note}
 With all these, we are now ready to proceed.
 
